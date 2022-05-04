@@ -1,0 +1,2 @@
+# Calculadora
+ Criada utilizando Javascript.
